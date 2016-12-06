@@ -1,0 +1,12 @@
+{
+  "name": "eslint-plugin-no-jsx",
+  "version": "0.1.0",
+  "description": "JSX must die",
+  "main": "index.js",
+  "repository": "github.com/owais/eslint-plugin-no-jsx",
+  "author": "Owais Lone <hello@owaislone.org>",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^3.11.1"
+  }
+}
